@@ -13,7 +13,7 @@ regionName
 
 **API:** 
 
-[https://rapidapi.com/zilinskivan/api/recipe64/](https://rapidapi.com/zilinskivan/api/ip-geolocation23)
+[https://rapidapi.com/zilinskivan/api/ip-geolocation23/](https://rapidapi.com/zilinskivan/api/ip-geolocation23)
 
 **Code Samples:** 
 
